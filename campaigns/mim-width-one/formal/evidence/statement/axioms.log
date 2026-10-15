@@ -1,0 +1,2 @@
+'MimWidthOne.Goal' depends on axioms: [propext, Classical.choice, Quot.sound]
+'MimWidthOne.solve' depends on axioms: [propext, sorryAx, Classical.choice, Quot.sound]

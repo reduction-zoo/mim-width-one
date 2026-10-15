@@ -1,0 +1,7 @@
+{
+  "id": "Q023",
+  "source_definition": "The source is a finite collection of labelled quartet trees. Its outputs are unrooted trees displaying every prescribed quartet, or NO-SOLUTION.",
+  "target_definition": "The source asks for a tree displaying a collection of prescribed unrooted quartets. The target asks for a branch decomposition of a graph such that every cut has bipartite induced matching number at most one.",
+  "required_result": "Construct deterministic polynomial-time maps F and G: F sends every legal source instance to a legal target instance, and G(x,y) is a valid source output for every valid output y of F(x). Preserve the stated threshold, domain and promises. The requested complexity conclusion is NP-hardness for the stated target problem.",
+  "equation": ""
+}
